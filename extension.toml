@@ -1,0 +1,7 @@
+id = "marathon-theme"
+name = "Marathon theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["vekonylaszlo"]
+description = "A theme based on marathon's ui"
+repository = "https://github.com/your-name/my-zed-extension"
